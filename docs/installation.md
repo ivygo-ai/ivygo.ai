@@ -42,7 +42,14 @@ sidebar_position: 2
 
 #### 1. 下载插件压缩包
 
-确保您已获得插件的压缩包文件（.zip 格式），并保存到容易找到的位置。
+您可以直接通过以下地址下载 **IvyGo 艾维果浏览器配音插件** 压缩包（`.zip` 格式），并保存到容易找到的位置：
+
+- **GitHub 下载地址**：[`https://github.com/ivygo-ai/ivygo.ai/releases/download/v0.2.0/ivygo-0.2.0.zip`](https://github.com/ivygo-ai/ivygo.ai/releases/download/v0.2.0/ivygo-0.2.0.zip)
+
+:::info 提示
+- 我们正在将插件上架 **Chrome 网上应用店**，目前处于审核阶段。由于圣诞节等节假日，审核进度可能会较慢，上架后您也可以通过商店一键安装。
+- 在此之前，请优先使用上述 **GitHub 下载链接** 并通过开发者模式手动安装。
+:::
 
 ![插件压缩包](/img/plugin-guide/CleanShot%202025-12-02%20at%2017.03.53@2x.png)
 
