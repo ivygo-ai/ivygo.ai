@@ -8,11 +8,10 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  // For GitHub Pages project site: https://<org>.github.io
-  url: 'https://ivygo-ai.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages project sites, this is usually '/<projectName>/'
-  baseUrl: '/ivygo.ai/',
+  // Using custom domain: https://docs.ivygo.ai
+  url: 'https://docs.ivygo.ai',
+  // When using a custom domain and serving at the root, baseUrl should be '/'
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
