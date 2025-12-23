@@ -22,7 +22,8 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
-          node-version: 18
+          # Docusaurus 及当前依赖要求 Node.js >= 20
+          node-version: 20
           cache: npm
 
       - name: Install dependencies
