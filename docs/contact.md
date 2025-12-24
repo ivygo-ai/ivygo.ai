@@ -16,7 +16,9 @@ sidebar_label: 联系方式
 - 📚 讨论课程学习中的困难
 - 💡 分享学习心得和技巧
 
-![企业微信二维码](/img/ivygo-wecom.jpg)
+<div style={{textAlign: 'center', margin: '20px 0'}}>
+  <img src="/img/ivygo-wecom.jpg" alt="企业微信二维码" style={{maxWidth: '300px', width: '100%', height: 'auto', borderRadius: '8px'}} />
+</div>
 
 ## 🤝 加入我们
 
