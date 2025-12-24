@@ -90,7 +90,7 @@ sidebar_position: 4
 
 ## 🌐 兼容性问题
 
-### Q11: 支持哪些浏览器？
+### Q8: 支持哪些浏览器？
 
 目前支持：
 - ✅ Google Chrome（推荐）
@@ -100,7 +100,7 @@ sidebar_position: 4
 - ❌ Firefox
 - ❌ Safari
 
-### Q12: 支持哪些视频网站？
+### Q9: 支持哪些视频网站？
 
 目前仅支持 **YouTube** 视频翻译。
 
