@@ -28,7 +28,7 @@ sidebar_position: 2
 3. 选择 **"设置"** → **"关于 Chrome"**
 4. 确保版本号在 **142** 以上
 
-![浏览器版本检查](/img/plugin-guide/CleanShot%202025-12-02%20at%2017.45.09@2x.png)
+![浏览器版本检查](/img/plugin-guide/CleanShot%2025-12-02%20at%2017.45.09@2x.png)
 
 ---
 
@@ -51,7 +51,7 @@ sidebar_position: 2
 - 在此之前，请优先使用上述 **GitHub 下载链接** 并通过开发者模式手动安装。
 :::
 
-![插件压缩包](/img/plugin-guide/CleanShot%202025-12-02%20at%2017.03.53@2x.png)
+![插件压缩包](/img/plugin-guide/CleanShot%2025-12-02%20at%2017.03.53@2x.png)
 
 #### 2. 解压缩文件
 
@@ -59,7 +59,7 @@ sidebar_position: 2
 2. 选择 **"解压到当前文件夹"** 或 **"解压到指定文件夹"**
 3. 记住解压后文件夹的位置
 
-![解压缩步骤](/img/plugin-guide/CleanShot%202025-12-02%20at%2017.04.37@2x.png)
+![解压缩步骤](/img/plugin-guide/CleanShot%2025-12-02%20at%2017.04.37@2x.png)
 
 ---
 
@@ -71,7 +71,7 @@ sidebar_position: 2
 2. 在地址栏输入：`chrome://extensions/`
 3. 按回车键进入扩展程序管理页面
 
-![扩展程序管理页面](/img/plugin-guide/CleanShot%202025-12-02%20at%2017.05.32@2x.png)
+![扩展程序管理页面](/img/plugin-guide/CleanShot%2025-12-02%20at%2017.05.32@2x.png)
 
 #### 2. 开启开发者模式
 
@@ -79,7 +79,7 @@ sidebar_position: 2
 2. 点击开关，使其变为**蓝色**（开启状态）
 3. 页面会显示更多选项按钮
 
-![开启开发者模式](/img/plugin-guide/CleanShot%202025-12-02%20at%2017.06.12@2x.png)
+![开启开发者模式](/img/plugin-guide/CleanShot%2025-12-02%20at%2017.06.12@2x.png)
 
 #### 3. 加载插件
 
@@ -88,9 +88,9 @@ sidebar_position: 2
 3. 选择插件文件夹（**不是**压缩包文件）
 4. 点击 **"选择文件夹"** 按钮
 
-![点击加载按钮](/img/plugin-guide/CleanShot%202025-12-02%20at%2017.07.20@2x.png)
+![点击加载按钮](/img/plugin-guide/CleanShot%2025-12-02%20at%2017.07.20@2x.png)
 
-![选择插件文件夹](/img/plugin-guide/CleanShot%202025-12-02%20at%2017.08.15@2x.png)
+![选择插件文件夹](/img/plugin-guide/CleanShot%2025-12-02%20at%2017.08.15@2x.png)
 
 ---
 
@@ -113,7 +113,7 @@ sidebar_position: 2
 2. 选择解压后的插件文件夹
 3. 点击 **"选择文件夹"**
 
-![Edge 安装步骤](/img/plugin-guide/CleanShot%202025-12-02%20at%2017.12.10@2x.png)
+![Edge 安装步骤](/img/plugin-guide/CleanShot%2025-12-02%20at%2017.12.10@2x.png)
 
 ---
 
@@ -125,7 +125,7 @@ sidebar_position: 2
 - ✅ 扩展程序列表中显示插件
 - ✅ 可能会有欢迎页面弹出
 
-![安装成功](/img/plugin-guide/CleanShot%202025-12-02%20at%2017.20.38@2x.png)
+![安装成功](/img/plugin-guide/CleanShot%2025-12-02%20at%2017.20.38@2x.png)
 
 ---
 
