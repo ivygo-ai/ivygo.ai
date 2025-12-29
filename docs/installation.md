@@ -44,7 +44,7 @@ sidebar_position: 2
 
 您可以直接通过以下地址下载 **IvyGo 艾维果浏览器配音插件** 压缩包（`.zip` 格式），并保存到容易找到的位置：
 
-- **GitHub 下载地址**：[`https://github.com/ivygo-ai/ivygo.ai/releases/download/v0.2.0/ivygo-0.2.0.zip`](https://github.com/ivygo-ai/ivygo.ai/releases/download/v0.2.0/ivygo-0.2.0.zip)
+- **GitHub 下载地址**：[`https://github.com/ivygo-ai/ivygo.ai/releases/download/latest/ivygo-extension-latest.zip`](https://github.com/ivygo-ai/ivygo.ai/releases/download/latest/ivygo-extension-latest.zip)
 
 :::info 提示
 - 我们正在将插件上架 **Chrome 网上应用店**，目前处于审核阶段。由于圣诞节等节假日，审核进度可能会较慢，上架后您也可以通过商店一键安装。
