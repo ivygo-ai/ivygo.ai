@@ -7,6 +7,27 @@ sidebar_label: 欢迎使用
 
 **IvyGo 艾维果** 是一款强大的高质量浏览器 AI 配音插件，能够轻松将 YouTube 英文视频内容翻译成中文语音，同时保持原说话人的音色和语调，使配音听起来流畅自然。通过使用母语接收信息，基本消除了语言壁垒，大幅提高学习效率。
 
+## 📹 演示视频
+
+观看下面的演示视频，快速了解插件的安装和使用流程（以 Chrome 浏览器为例）：
+
+<div style={{textAlign: 'center', margin: '2rem 0'}}>
+  <video 
+    controls 
+    width="100%" 
+    style={{maxWidth: '900px', borderRadius: '8px', boxShadow: '0 4px 6px rgba(0,0,0,0.1)'}}
+    preload="metadata"
+    playsInline
+  >
+    <source src="/videos/ivygo-demo.mp4" type="video/mp4" />
+    您的浏览器不支持视频播放，请查看下方的详细文档步骤。
+  </video>
+</div>
+
+:::tip 提示
+如果视频无法播放，或者您需要更详细的文字说明，可以查看下方的 [安装指南](/docs/installation) 和 [使用教程](/docs/usage)。
+:::
+
 ## ✨ 核心功能
 - 🎬 **视频配音** 一键将 YouTube 视频从英文语音切换成高质量的中文语音，同时保持说话人的音色和语调，听起来流畅自然。使用母语学习，效率更高。
 - 🎯 **双语字幕** 支持显示高质量的中英文字幕，可使用鼠标拖拽调整字幕位置。您也可以仅显示双语字幕而不使用中文配音，根据需求灵活调整。
