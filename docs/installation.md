@@ -10,16 +10,30 @@ sidebar_position: 2
 
 ### 支持的浏览器
 
+#### 桌面端
+
 | 浏览器 | 支持状态 |
 |--------|----------|
 | Google Chrome | ✅ 推荐 |
 | Microsoft Edge | ✅ 支持 |
 
+#### 移动端
+
+| 浏览器 | 支持状态 |
+|--------|----------|
+| Kiwi Browser (Android) | ✅ 支持 |
+
 ### 系统要求
+
+#### 桌面端
 
 - **Windows**: Windows 10 或更高版本
 - **Mac**: macOS 10.14 或更高版本
 - **Linux**: Ubuntu 18.04 或更高版本
+
+#### 移动端
+
+- **Android**: Android 5.0 或更高版本（需安装 Kiwi Browser）
 
 ### 检查浏览器版本
 
@@ -114,6 +128,61 @@ sidebar_position: 2
 3. 点击 **"选择文件夹"**
 
 ![Edge 安装步骤](/img/plugin-guide/CleanShot%202025-12-02%20at%2017.12.10@2x.png)
+
+---
+
+### 步骤四：移动端 Android 安装（Kiwi Browser）
+
+:::info 关于 Kiwi Browser
+Kiwi Browser 是一款基于 Chromium 的 Android 浏览器，支持安装 Chrome 扩展程序。这是目前在 Android 设备上使用 IvyGo 插件的推荐方式。
+:::
+
+#### 1. 安装 Kiwi Browser
+
+1. 访问 Kiwi Browser 的 GitHub 发布页面：
+   - **GitHub 下载地址**：[https://github.com/kiwibrowser/src.next/releases](https://github.com/kiwibrowser/src.next/releases)
+2. 下载最新版本的arm64 `.apk` 安装包
+3. 在 Android 设备上打开下载的 `.apk` 文件
+4. 按照提示完成安装（可能需要允许"安装未知来源应用"）
+
+#### 2. 下载插件压缩包
+
+您可以通过以下任一方式下载插件：
+
+**方式一：官网下载**
+1. 访问 IvyGo 官网
+2. 点击页面右上角的下载按钮
+3. 插件压缩包将自动下载到您的设备
+
+**方式二：GitHub 下载**
+1. 在 Kiwi Browser 中访问下载地址：
+   - **GitHub 下载地址**：[`https://github.com/ivygo-ai/ivygo.ai/releases/download/latest/ivygo-extension-latest.zip`](https://github.com/ivygo-ai/ivygo.ai/releases/download/latest/ivygo-extension-latest.zip)
+
+下载完成后，记住文件保存位置（通常在 **"下载"** 文件夹）
+
+#### 3. 在 Kiwi Browser 中加载插件
+
+1. 打开 Kiwi Browser
+2. 点击右上角的 **三个点 ⋮** 菜单
+3. 选择 **"扩展程序"**（Extensions）
+4. 开启右上角的 **"开发者模式"**
+5. 点击 **"+ (from .zip/.crx/.user.js)"** 按钮
+6. 在文件选择器中，找到下载的 `.zip` 文件并选择
+7. 等待插件加载完成
+
+![Kiwi插件安装1](/img/plugin-guide/kiwi-extension.png)
+
+![Kiwi插件安装2](/img/plugin-guide/kiwi-install.png)
+
+:::tip 提示
+Kiwi Browser 支持直接加载 `.zip` 压缩包，无需解压！
+:::
+
+#### 4. 移动端使用提示
+
+- 插件图标会出现在浏览器地址栏右侧
+- 点击插件图标可以打开设置面板
+- 移动端界面已针对触摸操作优化
 
 ---
 
