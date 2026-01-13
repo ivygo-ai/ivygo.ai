@@ -19,9 +19,10 @@ sidebar_position: 2
 
 #### 移动端
 
-| 浏览器 | 支持状态 |
-|--------|----------|
-| Kiwi Browser (Android) | ✅ 支持 |
+| 平台 | 浏览器 | 支持状态 |
+|------|--------|----------|
+| Android | Kiwi Browser | ✅ 支持 |
+| iOS | Safari + 艾维果 | ✅ 支持 |
 
 ### 系统要求
 
@@ -34,8 +35,9 @@ sidebar_position: 2
 #### 移动端
 
 - **Android**: Android 5.0 或更高版本（需安装 Kiwi Browser）
+- **iOS**: iOS 17 或更高版本（需安装 艾维果 应用）
 
-### 检查浏览器版本
+### 检查浏览器版本（桌面端）
 
 1. 打开浏览器
 2. 点击右上角的三个点 **⋮**
@@ -46,7 +48,7 @@ sidebar_position: 2
 
 ---
 
-## 📥 安装步骤
+## 📥 桌面端安装步骤
 
 :::info 重要提示
 本插件以压缩包形式提供，需要通过**开发者模式**手动安装。请按照以下步骤操作。
@@ -131,7 +133,9 @@ sidebar_position: 2
 
 ---
 
-### 步骤四：移动端 Android 安装（Kiwi Browser）
+## 📱 移动端安装步骤
+
+### Android 端安装（Kiwi Browser）
 
 :::info 关于 Kiwi Browser
 Kiwi Browser 是一款基于 Chromium 的 Android 浏览器，支持安装 Chrome 扩展程序。这是目前在 Android 设备上使用 IvyGo 插件的推荐方式。
@@ -178,7 +182,7 @@ Kiwi Browser 是一款基于 Chromium 的 Android 浏览器，支持安装 Chrom
 Kiwi Browser 支持直接加载 `.zip` 压缩包，无需解压！
 :::
 
-#### 4. 移动端使用提示
+#### 4. Android 端使用提示
 
 - 插件图标会出现在浏览器地址栏右侧
 - 点击插件图标可以打开设置面板
@@ -186,7 +190,65 @@ Kiwi Browser 支持直接加载 `.zip` 压缩包，无需解压！
 
 ---
 
+### iOS 端安装（Safari + 艾维果）
+
+:::info 关于 iOS 端使用
+由于 iOS Safari 的限制，需要配合 **艾维果** 应用使用。该应用可在 App Store 免费下载。
+:::
+
+#### 1. 安装 艾维果 应用
+
+1. 打开 iPhone 上的 **App Store**
+2. 搜索 **"艾维果"**
+3. 点击 **"获取"** 并安装该应用
+
+#### 2. Safari 浏览器设置
+
+:::warning 重要提示
+请不要启用隐私浏览模式，否则您将无法登录。iOS 系统版本需为 **iOS 16 或更高版本，建议 iOS 17以上版本。**
+:::
+
+**步骤如下：**
+
+1. 打开 iPhone 的 **"设置"** 应用
+2. 向下滚动点击 **"APP"** 并选择 **"Safari浏览器"**
+
+   <img src="/img/plugin-guide/ios-safari-settings-app.png" alt="iOS设置应用" width="300" />
+   <img src="/img/plugin-guide/ios-safari-settings-menu.png" alt="Safari设置菜单" width="300" />
+
+3. 点击 **"阻止弹出式窗口"** 选项，保持开启
+   <img src="/img/plugin-guide/ios-safari-block-popups.png" alt="阻止弹出式窗口" width="300" />
+4. 点击 **"扩展"**
+   - 点击 **"艾维果"**
+   - 打开 **"允许扩展"** 选项
+   - 在 **"网页内容和浏览历史记录"** 中，确保全部选择 **"允许"**
+   - 完成后返回到Safari浏览器配置页面
+
+   <img src="/img/plugin-guide/ios-safari-extension-permissions.png" alt="Safari扩展权限设置" width="300" />
+
+5. 向下滑动找到 **"防止跨站追踪"**，确保将其**关闭**
+
+   <img src="/img/plugin-guide/ios-safari-prevent-tracking.png" alt="关闭防止跨站追踪" width="300" />
+
+6. 向下滑动找到 **"高级"** 选项，进入后确保 **"阻止所有Cookie"** 是**关闭**状态
+
+   <img src="/img/plugin-guide/ios-safari-block-cookies.png" alt="关闭阻止所有Cookie" width="300" />
+
+7. **注意**在youtube页面，点击此图标为开启配音
+   <img src="/img/plugin-guide/ios-safari-youtube.png" alt="开启配音" width="300" />
+
+
+#### 3. iOS 端使用提示
+
+- 确保 Safari 浏览器已按照上述步骤正确配置
+- 如遇到问题，请检查是否关闭了隐私浏览模式
+- 确保系统版本为 iOS 16 或更高
+
+---
+
 ## ✅ 安装成功确认
+
+### 桌面端
 
 安装成功后，您会看到：
 
@@ -196,31 +258,62 @@ Kiwi Browser 支持直接加载 `.zip` 压缩包，无需解压！
 
 ![安装成功](/img/plugin-guide/CleanShot%202025-12-02%20at%2017.20.38@2x.png)
 
+### 移动端
+
+#### Android（Kiwi Browser）
+- ✅ 浏览器地址栏右侧出现插件图标
+- ✅ 扩展程序列表中显示 IvyGo 插件
+
+#### iOS（Safari + 艾维果）
+- ✅ Safari 扩展设置中显示 "YouTube 中文配音" 已启用
+- ✅ 访问 YouTube 时扩展自动工作
+
 ---
 
 ## ❗ 常见安装问题
 
-### 找不到"加载已解压的扩展程序"按钮
+### 桌面端问题
+
+#### 找不到"加载已解压的扩展程序"按钮
 
 **解决方法：**
 - 确保已经开启了 **"开发者模式"**
 - 刷新扩展程序管理页面
 - 检查浏览器版本是否过旧
 
-### 选择文件夹后没有反应
+#### 选择文件夹后没有反应
 
 **解决方法：**
 - 确保选择的是**解压后的文件夹**，不是压缩包文件
 - 检查文件夹中是否包含 `manifest.json` 文件
 - 尝试重新解压缩文件
 
-### 插件加载失败
+#### 插件加载失败
 
 **解决方法：**
 - 检查插件文件是否完整
 - 查看错误提示信息
 - 确保浏览器版本兼容
 
+### 移动端问题
+
+#### Android（Kiwi Browser）
+
+**无法加载插件**
+- 确保已开启开发者模式
+- 检查下载的 `.zip` 文件是否完整
+- 尝试重新下载插件
+
+**插件图标不显示**
+- 重启 Kiwi Browser
+- 检查扩展程序列表中插件是否已启用
+
+#### iOS（Safari + 艾维果）
+
+**无法登录**
+- 确保已关闭 Safari 的隐私浏览模式
+- 检查 "阻止所有Cookie" 是否已关闭
+- 确保 "防止跨站追踪" 已关闭
 ---
 
 ## 下一步
