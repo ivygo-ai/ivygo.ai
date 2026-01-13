@@ -198,6 +198,17 @@ Kiwi Browser 支持直接加载 `.zip` 压缩包，无需解压！
 
 #### 1. 安装 艾维果 应用
 
+**方式一：通过 TestFlight 安装（推荐）**
+
+TestFlight 版本可以体验最新功能和修复：
+
+1. 打开 iPhone 上的 **App Store**
+2. 搜索并安装 **TestFlight** 应用（如果尚未安装）
+3. 打开以下链接，然后点击 **在TestFlight中查看** 加入测试：[https://testflight.apple.com/join/VqYRgKgQ](https://testflight.apple.com/join/VqYRgKgQ)
+<img src="/img/plugin-guide/ios-testflight.png" alt="TestFlight 安装" width="300" />
+
+**方式二：通过 App Store 安装**
+
 1. 打开 iPhone 上的 **App Store**
 2. 搜索 **"艾维果"**
 3. 点击 **"获取"** 并安装该应用
@@ -234,7 +245,7 @@ Kiwi Browser 支持直接加载 `.zip` 压缩包，无需解压！
 
    <img src="/img/plugin-guide/ios-safari-block-cookies.png" alt="关闭阻止所有Cookie" width="300" />
 
-7. **注意**在youtube页面，点击此图标为开启配音
+7. 插件功能概览
    <img src="/img/plugin-guide/ios-safari-youtube.png" alt="开启配音" width="300" />
 
 
