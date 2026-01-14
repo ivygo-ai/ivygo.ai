@@ -207,7 +207,7 @@ TestFlight 版本可以体验最新功能和修复：
 3. 打开以下链接，然后点击 **在TestFlight中查看** 加入测试：[https://testflight.apple.com/join/VqYRgKgQ](https://testflight.apple.com/join/VqYRgKgQ)
 <img src="/img/plugin-guide/ios-testflight.png" alt="TestFlight 安装" width="300" />
 
-**方式二：通过 App Store 安装**
+**方式二：通过 App Store 安装 （紧急上线中，请使用方式一）**
 
 1. 打开 iPhone 上的 **App Store**
 2. 搜索 **"艾维果"**
